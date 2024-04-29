@@ -1,7 +1,5 @@
 # Java Program with Jenkins
 
-## Date: April 28, 2024
-
 This project demonstrates building a Java program for the addition of two numbers using Jenkins.
 
 ## Instructions
